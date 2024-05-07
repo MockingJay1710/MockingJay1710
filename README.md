@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm EL MEJBAR OTMANE</h1>
-<h3 align="center">A COMPUTER SCIENCE STUDENT</h3>
+<h2 align="center">A COMPUTER SCIENCE STUDENT</h2>
 
 - 🌱 I’m currently learning **TensorFlow**
 
